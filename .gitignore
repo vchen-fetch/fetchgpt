@@ -21,3 +21,6 @@ data/*.csv
 
 # API keys and secrets
 *.key
+
+# category agent
+category_agent/
