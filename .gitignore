@@ -17,10 +17,13 @@ venv/
 ENV/
 
 # Data files (if you don't want to track them)
-data/*.csv
+data/*
+category_agent/
 
 # API keys and secrets
 *.key
 
-# category agent
-category_agent/
+# testing
+testing.ipynb
+
+ocr.ipynb
